@@ -1,5 +1,5 @@
-# My awesome React Biolerplate
-This thing is the bomb dot com
+# Awesome React Biolerplate
+Just follow instructions and start coding.
 
 ##  Instructions
   `npm install`
